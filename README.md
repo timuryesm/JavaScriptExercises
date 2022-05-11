@@ -8,3 +8,4 @@ Intro to JavaScript
 6. Iterating Objects
 7. To Do List Project
 8. While Loops
+9. Functions Intro
