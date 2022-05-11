@@ -5,3 +5,6 @@ Intro to JavaScript
 3. Truthy-Falsy
 4. Nested Loops
 5. ForOf
+6. Iterating Objects
+7. To Do List Project
+8. While Loops
