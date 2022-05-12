@@ -9,3 +9,4 @@ Intro to JavaScript
 7. To Do List Project
 8. While Loops
 9. Functions Intro
+10. Arrow Functions
