@@ -10,3 +10,10 @@ Intro to JavaScript
 8. While Loops
 9. Functions Intro
 10. Arrow Functions
+11. Arroy Function This
+12. Filter
+13. For Each
+14. Map
+15. Reduce
+16. set Timeout
+17. Some Every
