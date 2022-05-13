@@ -21,3 +21,4 @@ Intro to JavaScript
 19. Destructuring
 20. Rest
 21. Spread
+22. DOM Intro Code
