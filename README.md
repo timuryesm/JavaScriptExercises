@@ -17,3 +17,7 @@ Intro to JavaScript
 15. Reduce
 16. set Timeout
 17. Some Every
+18. Default Params
+19. Destructuring
+20. Rest
+21. Spread
