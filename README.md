@@ -22,3 +22,4 @@ Intro to JavaScript
 20. Rest
 21. Spread
 22. DOM Intro Code
+23. DOM Events Codes
