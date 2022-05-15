@@ -1,4 +1,4 @@
-# JavaScriptExercises
+# JavaScriptExercises :computer:
 >*Intro to JavaScript*
 ```
 1. Conditionals
