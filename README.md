@@ -1,5 +1,6 @@
 # JavaScriptExercises
 >*Intro to JavaScript*
+```
 1. Conditionals
 2. Logical Operators
 3. Truthy-Falsy
@@ -23,3 +24,4 @@
 21. Spread
 22. DOM Intro Code
 23. DOM Events Codes
+```
