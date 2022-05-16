@@ -24,4 +24,5 @@
 21. Spread
 22. DOM Intro Code
 23. DOM Events Codes
+24. Score Keeper project exercise
 ```
